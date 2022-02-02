@@ -1,3 +1,3 @@
-# Test-Page-1
+Google Analytics + Tag Manager Test page
 
-Page Hosted at https://kgalue.github.io/Test-Page-1/
+Page Hosted at https://kgalue.github.io/GTM-Test-Page/
